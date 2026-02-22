@@ -164,6 +164,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
+* [The Math Behind Artificial Intelligence: A Guide to AI Foundations](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro (HTML)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 
@@ -200,7 +201,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon *( :construction: in process)*
 * [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
-* [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
+* [Distributed Systems 4th edition](https://www.distributed-systems.net/index.php/books/ds4/ds4-ebook/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 * [How to optimize storage costs using Amazon S3](https://aws.amazon.com/s3/cloud-storage-cost-optimization-ebook/) - AWS (PDF)
 * [Kubernetes Hardening Guidance](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) - NSA, CISA (PDF)
 * [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
@@ -664,6 +665,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 * [Essential Image Optimization](https://images.guide) - Addy Osmani
 * [Foundations of Programming](https://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (PDF)
+* [Front-end Debugging Tools Handbook](https://github.com/lala-hakobyan/front-end-debugging-handbook) - Lala Hakobyan
 * [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
 * [Front-End Developer Handbook 2018](https://frontendmasters.com/guides/front-end-handbook/2018/) - Cody Lindley (HTML)
@@ -946,7 +948,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Software Architecture
 
-* [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Metapatterns: The Pattern Language of Software Architecture](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 * [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
